@@ -1,0 +1,23 @@
+{
+  "name": "myskills",
+  "version": "1.0.0",
+  "description": "amazon skills",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadStout/Alexa.git"
+  },
+  "author": "Chad E. Stout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChadStout/Alexa/issues"
+  },
+  "homepage": "https://github.com/ChadStout/Alexa#readme"
+}
