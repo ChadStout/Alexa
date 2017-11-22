@@ -4,11 +4,16 @@
   "description": "amazon skills",
   "main": "index.js",
   "dependencies": {
-    "alexa-app-server": "^3.0.1"
+    "alexa-app-server": "^3.0.1",
+    "alexa-app": "^2.1.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index"
+  },
+  "alexa": {
+    "applicationId": "amzn1.echo-sdk-ams.app.CHANGE-ME"
   },
   "repository": {
     "type": "git",
